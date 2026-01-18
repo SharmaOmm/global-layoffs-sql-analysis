@@ -1,26 +1,32 @@
-# Global Layoffs – SQL Analysis
+# 🌍 Global Layoffs — SQL Data Analysis
+
+-----
 
 ## Project Overview
-This project analyzes global layoff data using SQL to uncover patterns, concentration, and trends across companies, industries, and countries.
 
-## How to Navigate This Repository
-Start with this README for project context, explore the SQL scripts for implementation details, and refer to KEY_FINDINGS.md for summarized insights.
-The focus of this project is analytical depth rather than visualization.
+This project analyzes **global layoffs during the COVID-19 period** using SQL, with a strong focus on **data cleaning and exploratory data analysis (EDA)**.
 
-## Dataset: 
-- Global layoffs dataset covering multiple industries and countries
-- Includes company, industry, country, layoff count, and dates
 
-## Tools Used
-- MySQL
-- SQL (Window Functions, CTEs, Aggregations)
+-----
 
-## Project Structure
-README.md
-sql/
- ├── 01_Data_Cleaning.sql
- └── 02_Eda.sql
-KEY_FINDINGS.md
+## Dataset
+
+A global layoffs dataset covering multiple industries and countries, capturing workforce reductions across companies over time.
+The raw dataset used for this analysis is available in the data/ folder of this repository.
+
+
+-----
+
+## Tools & Techniques
+
+- **SQL**
+  - Data Cleaning
+  - Aggregations
+  - Window Functions
+  - Common Table Expressions (CTEs)
+
+
+-----
 
 ## Analysis Highlights
 - Identified duplicate records and standardized raw data
@@ -29,5 +35,22 @@ KEY_FINDINGS.md
 - Compared top 10 companies vs rest to study concentration
 - Evaluated layoff frequency vs intensity at company level
 
-## Key Insights
-Refer to [KEY_FINDINGS.md](KEY_FINDINGS.md) for summarized insights.
+
+-----
+
+## Key Findings & Visual Summary
+- The key insights derived from the analysis are explained in detail in KEY_FINDINGS.md
+- A brief visual snapshot summarizing the analysis is available in the visuals file for quick reference.
+
+
+-----
+
+## Conclusion
+
+This repository presents a focused SQL-based analysis of global layoff data, covering data cleaning, exploration, and insight generation.
+The project is intended to be a clear and self-contained analytical study, with supporting insights and summaries documented alongside the code.
+
+
+-----
+
+
