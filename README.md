@@ -38,9 +38,8 @@ The raw dataset used for this analysis is available in the data/ folder of this 
 
 -----
 
-## Key Findings & Visual Summary
-- The key insights derived from the analysis are explained in detail in KEY_FINDINGS.md
-- A brief visual snapshot summarizing the analysis is available in the visuals file for quick reference.
+## Key Findings 
+- The key insights derived from the analysis are explained in detail in Key_Findings.md
 
 
 -----
