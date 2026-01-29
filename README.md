@@ -43,7 +43,7 @@ The raw dataset used for this analysis is available in the data/ folder of this 
 
 ## Key Findings & Visuals
 - The key insights derived from the analysis are explained in detail in Key_Findings.md
-- Interactive version of this analysis is available on TablePublic:
+- Interactive version of this analysis is available on:
   https://public.tableau.com/shared/YRDSWYW9D?:display_count=n&:origin=viz_share_link
 
 
