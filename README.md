@@ -24,6 +24,9 @@ The raw dataset used for this analysis is available in the data/ folder of this 
   - Aggregations
   - Window Functions
   - Common Table Expressions (CTEs)
+- **Tableau**
+  - Data Visualization
+  - Dashboard Creation
 
 
 -----
